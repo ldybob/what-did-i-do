@@ -1,0 +1,6 @@
+# 실제 업무 로그는 절대 이 레포에 커밋하지 않는다
+weekly_log_*.md
+
+# 로컬 작업 파일
+.DS_Store
+*.local.md
